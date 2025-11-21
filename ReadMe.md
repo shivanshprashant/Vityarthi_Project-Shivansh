@@ -6,8 +6,6 @@ seaborn
 scikit-learn
 
 Project Status Checklist
-
-| Component | Status | Next Action |
 | Source Code(`src/*.py`) |  Done 
 | Main Script(`main.py`) |  Done 
 | Dependencies(`requirements.txt`) |  Done | Run `pip install -r requirements.txt`. |
