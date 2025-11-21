@@ -7,8 +7,6 @@ scikit-learn
 
 Project Status Checklist
 
-You are now moving from Phase 1 (Building) to Phase 2 (Running & Reporting)
-
 | Component | Status | Next Action |
 | Source Code(`src/*.py`) |  Done 
 | Main Script(`main.py`) |  Done 
